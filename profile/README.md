@@ -12,6 +12,10 @@
 
 TEKSI is a non profit swiss association set up to support open source professional GIS projects aiming to ease the management of public infrastructures.
 
+## Available modules
+* [TEKSI Module for water network management (QWAT Project)](https://github.com/qwat/QWAT)
+* [TEKSI Module for wastewater network management (QGEP Project)](https://github.com/QGEP/QGEP)
+
 ## Website
 You can discover more about [TEKSI](https://www.teksi.ch)
 
@@ -23,6 +27,6 @@ You can discover more about [TEKSI](https://www.teksi.ch)
 
 ## Links
 <!-- TODO Add  logos-->
+* [TEKSI WIKI](https://github.com/teksi/Home/wiki)
 * [QGIS CH Organisation](https://www.qgis.ch/) 
-* [TEKSI Module for water network management (QWAT Project)](https://github.com/qwat/QWAT)
-* [TEKSI Module for wastewater network management (QGEP Project)](https://github.com/QGEP/QGEP)
+
