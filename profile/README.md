@@ -10,3 +10,29 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+## Welcome to the TEKSI GitHub Home page
+
+TEKSI is a non profit swiss association set up to support open source GIS projects aiming to ease the management of public infrastructures.
+
+## Website
+You can discover more about [TEKSI](https://www.teksi.ch)
+
+* [Community](https://www.teksi.ch/communaute/)
+* [Modules](https://www.teksi.ch/modules/)
+* [Contribution](https://www.teksi.ch/contribution/)
+* [News / agenda](https://www.teksi.ch/actualites-agenda/)
+* [Get in touch](https://www.teksi.ch/contact/)
+
+## Links
+<!-- TODO Add  logos-->
+* [QGIS CH Organisation](https://www.qgis.ch/) 
+* [TEKSI Module for water network management (QWAT Project)](https://github.com/qwat/QWAT)
+* [TEKSI Module for wastewater network management (QGEP Project)](https://github.com/QGEP/QGEP)
+
+## QGIS / Postgis Based solutions
+
+TODO : A few words about how we are implied in QGIS evolutions and developpements 
+
+## Modules
+
+TODO : Here comes a table with the different modules available, essential links (presentation, code, documentation)
