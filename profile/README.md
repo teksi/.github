@@ -30,5 +30,6 @@ You can discover more about [TEKSI](https://www.teksi.ch)
 ## Links
 <!-- TODO Add  logos-->
 * [TEKSI WIKI](https://github.com/teksi/Home/wiki)
+* [TEKSI Meetings](https://github.com/teksi/Home/wiki#meetings)
 * [QGIS CH Organisation](https://www.qgis.ch/) 
 
