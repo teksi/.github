@@ -29,7 +29,10 @@ You can discover more about [TEKSI](https://www.teksi.ch)
 
 ## Links
 <!-- TODO Add  logos-->
-* [TEKSI WIKI](https://github.com/teksi/Home/wiki)
-* [TEKSI Meetings](https://github.com/teksi/Home/wiki#meetings)
+* [WIKI](https://github.com/teksi/Home/wiki)
+* [Meetings](https://github.com/teksi/Home/wiki#meetings)
+* [Roadmap](https://github.com/teksi/Home/wiki/TEKSI-modules-releases-and-roadmap)
+* [Features development list](https://github.com/orgs/teksi/projects/2/views/7)
+* [Bug fixes list](https://github.com/orgs/teksi/projects/2/views/8)
 * [QGIS CH Organisation](https://www.qgis.ch/) 
 
