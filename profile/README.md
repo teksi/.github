@@ -19,7 +19,7 @@
 * [TEKSI Module for wastewater network management (QGEP Project)](https://github.com/QGEP) -> VSA DSS 2015
 
 ## Testing
-* [TEKSI wastewater and GWP (TWW)](https://github.com/teksi/wastewater) -> VSA DSS 2020
+* [TEKSI wastewater and GEP (TWW)](https://github.com/teksi/wastewater) -> VSA DSS 2020
 
 ## Development
 * [TEKSI distance heating (TDH)](https://github.com/teksi/distance_heating)
