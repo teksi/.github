@@ -16,11 +16,13 @@
 
 ## Available modules
 * [TEKSI Module for water network management (QWAT Project)](https://github.com/qwat)
-* [TEKSI Module for wastewater network management (QGEP Project)](https://github.com/QGEP)
+* [TEKSI Module for wastewater network management (QGEP Project)](https://github.com/QGEP) -> VSA DSS 2015
+
+## In testing modules
+* [TEKSI wastewater and GWP (TWW)](https://github.com/teksi/wastewater) -> VSA DSS 2020
 
 ## In development modules
-* [TEKSI wastewater Module and GWP](https://github.com/teksi/wastewater)
-* [TEKSI distance heating Module](https://github.com/teksi/distance_heating)
+* [TEKSI distance heating (TDH)](https://github.com/teksi/distance_heating)
 
 ## In development tools
 * [TEKSI Module Management Tool (TMMT)](https://github.com/teksi/TMMT)
