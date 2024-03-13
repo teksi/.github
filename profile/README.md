@@ -18,6 +18,13 @@
 * [TEKSI Module for water network management (QWAT Project)](https://github.com/qwat)
 * [TEKSI Module for wastewater network management (QGEP Project)](https://github.com/QGEP)
 
+## In development modules
+* [TEKSI wastewater Module and GWP](https://github.com/teksi/wastewater)
+* [TEKSI distance heating Module](https://github.com/teksi/distance_heating)
+
+## In development tools
+* [TEKSI Module Management Tool (TMMT)](https://github.com/teksi/TMMT)
+
 ## Website
 You can discover more about [TEKSI](https://www.teksi.ch)
 
