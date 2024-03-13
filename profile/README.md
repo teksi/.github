@@ -14,17 +14,15 @@
 
 [TEKSI](https://www.teksi.ch) is a non profit swiss association set up to support open source professional GIS projects aiming to ease the management of public infrastructures.
 
-## Available modules
+## Available
 * [TEKSI Module for water network management (QWAT Project)](https://github.com/qwat)
 * [TEKSI Module for wastewater network management (QGEP Project)](https://github.com/QGEP) -> VSA DSS 2015
 
-## In testing modules
+## Testing
 * [TEKSI wastewater and GWP (TWW)](https://github.com/teksi/wastewater) -> VSA DSS 2020
 
-## In development modules
+## Development
 * [TEKSI distance heating (TDH)](https://github.com/teksi/distance_heating)
-
-## In development tools
 * [TEKSI Module Management Tool (TMMT)](https://github.com/teksi/TMMT)
 
 ## Website
