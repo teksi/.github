@@ -22,7 +22,7 @@
 * [TEKSI wastewater and GEP (TWW)](https://github.com/teksi/wastewater) -> VSA DSS 2020
 
 ## Development
-* [TEKSI distance heating (TDH)](https://github.com/teksi/district_heating)
+* [TEKSI district_heating (TDH)](https://github.com/teksi/district_heating)
 * [TEKSI Module Management Tool (TMMT)](https://github.com/teksi/TMMT)
 
 ## Website
