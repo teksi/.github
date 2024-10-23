@@ -43,6 +43,7 @@ You can discover more about [TEKSI](https://www.teksi.ch)
 * [Features development list](https://github.com/orgs/teksi/projects/2/views/7)
 * [Developer Guide](https://github.com/teksi/Home/wiki/TEKSI-Developer-Guide)
 * [Contributor Guide](https://github.com/teksi/Home/wiki/TEKSI-Contributor-Guide)
+* [Translation Guide](https://github.com/teksi/Home/wiki/TEKSI-Translation-Guide)
 * [Bug fixes list](https://github.com/orgs/teksi/projects/2/views/8)
 * [QGIS CH Organisation](https://www.qgis.ch/) 
 
