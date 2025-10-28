@@ -16,7 +16,7 @@
 
 ## Available
 * [TEKSI Module for water network management (QWAT Project)](https://github.com/qwat)
-* [TEKSI Wastewater and General Wastewater Manangement (TWW)](https://github.com/teksi/wastewater) -> VSA DSS 2020
+* [TEKSI Wastewater and General Wastewater Management (TWW)](https://github.com/teksi/wastewater) -> VSA DSS 2020
 
 ## Soon to be retired
 * [TEKSI Module for wastewater network management (QGEP Project)](https://github.com/QGEP) -> VSA DSS 2015 (Will be archived end of 2025)
