@@ -41,6 +41,7 @@ You can discover more about [TEKSI](https://www.teksi.ch)
 * [Contribution](https://www.teksi.ch/contribution/)
 * [News / agenda](https://www.teksi.ch/actualites-agenda/)
 * [Get in touch](https://www.teksi.ch/contact/)
+* 🆕[Let's chat together](https://discord.gg/bsBJ3XHUKq)
 
 ## Useful Links
 <!-- TODO Add  logos-->
