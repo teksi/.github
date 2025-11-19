@@ -8,27 +8,32 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-![TEKSI](https://github.com/teksi/Home/blob/master/Ressources/Logos/210910-teksi-logos-en-01_45pp.png?raw=true)
+
+![TEKSI](https://github.com/teksi/Home/blob/master/Ressources/Logos/general/240515-teksi-illus.png?raw=true)
 
 ## Welcome to the TEKSI GitHub Home page 👋
 
 [TEKSI](https://www.teksi.ch) is a non profit swiss association set up to support open source professional GIS projects aiming to ease the management of public infrastructures.
 
-## Available
+<p align="center">
+  <img src="https://github.com/teksi/Home/blob/master/Ressources/Logos/210910-teksi-logos-en-01_45pp.png?raw=true" />
+</p>
+
+## Available Modules 🥳
 * [TEKSI Module for water network management (QWAT Project)](https://github.com/qwat)
 * [TEKSI Wastewater and General Wastewater Management (TWW)](https://github.com/teksi/wastewater) -> VSA DSS 2020
 
-## Soon to be retired
+## Soon to be retired 🛣️
 * [TEKSI Module for wastewater network management (QGEP Project)](https://github.com/QGEP) -> VSA DSS 2015 (Will be archived end of 2025)
 
-## Testing
+## Testing 🚧
 * [TEKSI district_heating (TDH)](https://github.com/teksi/district_heating)
-
-## Development
 * [TEKSI Module Management Tool (TMMT)](https://github.com/teksi/TMMT)
+
+## Development ⚗️
 * [TEKSI INTERLIS Tool (TIT)](https://github.com/teksi/TIT)
 
-## Website
+## Website 🚢
 You can discover more about [TEKSI](https://www.teksi.ch)
 
 * [Community](https://www.teksi.ch/communaute/)
@@ -37,7 +42,7 @@ You can discover more about [TEKSI](https://www.teksi.ch)
 * [News / agenda](https://www.teksi.ch/actualites-agenda/)
 * [Get in touch](https://www.teksi.ch/contact/)
 
-## Links
+## Useful Links
 <!-- TODO Add  logos-->
 * [WIKI](https://github.com/teksi/Home/wiki)
 * [Meetings](https://github.com/teksi/Home/wiki#meetings)
