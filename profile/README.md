@@ -9,14 +9,14 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-![TEKSI](https://github.com/teksi/Home/blob/master/Ressources/Logos/general/240515-teksi-illus.png?raw=true)
+![TEKSI](https://github.com/teksi/Home/blob/main/Ressources/Logos/general/240515-teksi-illus.png?raw=true)
 
 ## Welcome to the TEKSI GitHub Home page 👋
 
 [TEKSI](https://www.teksi.ch) is a non profit swiss association set up to support open source professional GIS projects aiming to ease the management of public infrastructures.
 
 <p align="center">
-  <img src="https://github.com/teksi/Home/blob/master/Ressources/Logos/210910-teksi-logos-en-01_45pp.png?raw=true" />
+  <img src="https://github.com/teksi/Home/blob/main/Ressources/Logos/210910-teksi-logos-en-01_45pp.png?raw=true" />
 </p>
 
 ## Available Modules 🥳
