@@ -46,7 +46,7 @@ You can discover more about [TEKSI](https://www.teksi.ch)
 ## Useful Links
 <!-- TODO Add  logos-->
 * [WIKI](https://github.com/teksi/Home/wiki)
-* [Meetings](https://github.com/teksi/Home/wiki#meetings)
+* [Meetings](https://github.com/teksi/Home/wiki/Meetings)
 * [Roadmap](https://github.com/teksi/Home/wiki/TEKSI-modules-releases-and-roadmap)
 * [Features development list](https://github.com/orgs/teksi/projects/2/views/7)
 * [Developer Guide](https://github.com/teksi/Home/wiki/TEKSI-Developer-Guide)
