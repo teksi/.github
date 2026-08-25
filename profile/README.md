@@ -24,11 +24,19 @@
 * [TEKSI Wastewater and General Wastewater Management (TWW)](https://github.com/teksi/wastewater) -> VSA DSS 2020
 
 ## Soon to be retired 🛣️
-* [TEKSI Module for wastewater network management (QGEP Project)](https://github.com/QGEP) -> VSA DSS 2015 (Will be archived end of 2025)
+* [TEKSI Module for wastewater network management (QGEP Project)](https://github.com/QGEP) -> VSA DSS 2015 (No new update will be provided by TEKSI)
 
 ## Testing 🚧
 * [TEKSI district_heating (TDH)](https://github.com/teksi/district_heating)
+* [TEKSI cemetery (TCE)](https://github.com/teksi/cemetery)
+
+## Available plugins 🔌
 * [TEKSI Module Management Tool (TMMT)](https://github.com/teksi/TMMT)
+* [PG History viewer](https://github.com/teksi/pg-history-viewer)
+
+## Useful plugins 🔌
+* [Document management system](https://github.com/opengisch/qgis-document-management-system-plugin)
+* [PG service parser](https://opengisch.github.io/qgis-pg-service-parser-plugin)
 
 ## Development ⚗️
 * [TEKSI INTERLIS Tool (TIT)](https://github.com/teksi/TIT)
