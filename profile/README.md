@@ -39,6 +39,7 @@
 * [PG service parser](https://opengisch.github.io/qgis-pg-service-parser-plugin)
 
 ## Development ⚗️
+* [TEKSI Hooks Framework](https://github.com/teksi/teksi_hooks)
 * [TEKSI INTERLIS Tool (TIT)](https://github.com/teksi/TIT)
 
 ## Website 🚢
